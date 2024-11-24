@@ -1,0 +1,13 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    height: 100px;
+    /* gap: 50px 50px; */
+    color: white;
+    background-color: #95ceb4;
+    font-size: 35px;
+    border: 1px solid black;
+    text-align: center;
+  }
+
+  
